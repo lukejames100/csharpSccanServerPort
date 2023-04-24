@@ -1,0 +1,9 @@
+C:\Users\DELL\documents\visual studio 2012\Projects\csharpScanPort\csharpScanPort\bin\Release\csharpScanPort.exe.config
+C:\Users\DELL\documents\visual studio 2012\Projects\csharpScanPort\csharpScanPort\bin\Release\csharpScanPort.exe
+C:\Users\DELL\documents\visual studio 2012\Projects\csharpScanPort\csharpScanPort\bin\Release\csharpScanPort.pdb
+C:\Users\DELL\documents\visual studio 2012\Projects\csharpScanPort\csharpScanPort\obj\Release\csharpScanPort.csprojResolveAssemblyReference.cache
+C:\Users\DELL\documents\visual studio 2012\Projects\csharpScanPort\csharpScanPort\obj\Release\csharpScanPort.Form1.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\csharpScanPort\csharpScanPort\obj\Release\csharpScanPort.Properties.Resources.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\csharpScanPort\csharpScanPort\obj\Release\csharpScanPort.csproj.GenerateResource.Cache
+C:\Users\DELL\documents\visual studio 2012\Projects\csharpScanPort\csharpScanPort\obj\Release\csharpScanPort.exe
+C:\Users\DELL\documents\visual studio 2012\Projects\csharpScanPort\csharpScanPort\obj\Release\csharpScanPort.pdb
